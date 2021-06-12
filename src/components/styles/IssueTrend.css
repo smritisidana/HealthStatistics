@@ -1,0 +1,31 @@
+.issueTrend{
+    border-radius: 3px;
+    border: 1px solid #979797;
+    /* background-color: blue; */
+    /* margin-bottom: 2146px; */
+    margin-right: 5%;
+    margin-left: 5%;
+    width: 70%;
+    /* height: 13%; */
+}
+
+.trendHeading{
+    font-size: 18px;
+    color: #2c2d2d;
+    margin-left: 5%;
+    margin-top: 2%;
+    text-align: left;
+}
+
+.trendTag{
+    border-top: 1px solid black;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    height: 10%;
+    color: #006BD4;
+    font-size: 14px;
+    text-align: left;
+    padding: 1% 0;
+}

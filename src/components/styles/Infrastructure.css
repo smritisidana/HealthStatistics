@@ -1,0 +1,38 @@
+.infrastructure{
+    border-radius: 3px solid #979797;
+    border: 1px solid #979797;
+    /* margin-bottom: 2146px; */
+    /* margin-left: 5%; */
+    width: 44%;
+    /* height: 13%; */
+    /* background-color: blue; */
+    
+}
+
+.infraHeading{
+    font-size: 18px;
+    color: #2c2d2d;
+    margin-left: 4%;
+    margin-top: 3%;
+    text-align: left;
+}
+
+.grid-el{
+    display: flex;
+    margin-top: 30px;
+    /* margin-right: 50%; */
+    margin-left: 10%;
+    margin-bottom: 5%;
+    /* border-right: 1px solid #c9c9c9; */
+}
+
+.grid-container {
+    display: grid;
+    /* grid-template-columns: 30% auto; */
+    height: 100%;
+}
+
+.grid---fit {
+    /* grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); */
+    grid-template-columns: 40% auto;
+}

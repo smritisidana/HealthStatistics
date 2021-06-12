@@ -1,0 +1,43 @@
+.healthStatus{
+    border-radius: 3px solid #979797;
+    border: 1px solid #979797;
+    /* margin-bottom: 2146px; */
+    /* margin-left: 5%; */
+    width: 24%;
+    /* height: 13%; */
+    /* background-color: blue; */
+    
+}
+
+.statusHeading{
+    font-size: 18px;
+    color: #2c2d2d;
+    margin-left: 6%;
+    margin-top: 5%;
+    text-align: left;
+}
+
+.healthChart{
+    margin-top: 10%;
+}
+
+.healthLegends{
+    height: 20%;
+}
+
+.healthTag{
+    border-top: 1px solid black;
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    height: 10%;
+    color: #006BD4;
+    font-size: 14px;
+    text-align: left;
+    padding: 5% 0;
+}
+
+.bi{
+    font-size: 14px;
+}

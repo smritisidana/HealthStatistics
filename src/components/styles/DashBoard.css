@@ -1,0 +1,53 @@
+.dashBoardHeader{
+    background-color: white;
+    margin-top: 73px;
+    margin-left: 6%;
+    /* margin-right: 35px; */
+    
+    height: 2575px;
+    border: 1px solid #d8d8d8;
+    border-top-left-radius: 45px;
+    border-top-right-radius: 45px;
+}
+
+.boardPage{
+    width: 95%;
+}
+
+.header{
+    height: 99px;
+    position: relative;
+}
+
+.userDisplay{
+    position: absolute;
+    margin-left: 5%;
+    padding-bottom: 10px;
+    padding-top: 50px;
+}
+
+.timeDisplay{
+    color: #646464;
+    margin-left: 78%;
+    padding-top: 70px;
+    font-size: 12px;
+}
+
+.statusTrend{
+    /* margin-top: 10%; */
+    margin-left: 5%;
+    margin-bottom: 3%;
+    /* width: 24%; */
+    height: 13%;
+    display: flex;
+    /* flex-direction: ; */
+}
+
+.infraStatus{
+    /* margin-top: 10%; */
+    margin-left: 5%;
+    /* width: 24%; */
+    height: 13%;
+    display: flex;
+    /* flex-direction: ; */
+}
